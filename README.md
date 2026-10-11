@@ -2,7 +2,13 @@
 
 Analista de Dados | Data Analyst
 
-Me chamo Ícaro de Sousa e sou apaixonado por tecnologia, análise de dados e resolução de problemas. Meu objetivo é transformar dados em informações relevantes, utilizando análises, visualizações e indicadores para apoiar a tomada de decisões. Tenho interesse em explorar ferramentas e tecnologias que permitam extrair insights, identificar padrões e apresentar informações de forma clara e estratégica.
+Me chamo Ícaro de Sousa, tenho 26 anos e sou apaixonado por tecnologia, análise de dados e resolução de problemas. Tenho interesse em transformar dados em informações estratégicas por meio de análises, visualizações e indicadores de desempenho. Busco aprimorar continuamente meus conhecimentos em ferramentas e tecnologias de dados, desenvolvendo soluções que contribuam para uma tomada de decisão mais eficiente e fundamentada em informações.
+
+📊 Análise e interpretação de dados
+📈 Visualização de dados e criação de relatórios
+🗄️ Consultas e manipulação de dados com SQL
+🐍 Análise de dados com Python
+🎯 Foco em indicadores, insights e tomada de decisões
 
 🌐 Conecte-se comigo
 
