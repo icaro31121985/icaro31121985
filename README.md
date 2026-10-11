@@ -1,52 +1,120 @@
 👨🏻‍💻 Ícaro de Sousa
-📊 Analista de Dados | Data Analyst
+Analista de Dados e Sistemas | BI e Automação aplicados à Logística e Transportes
 
-Olá! Sou Ícaro de Sousa, tenho 26 anos e sou interessado em tecnologia, análise de dados e inteligência de negócios. Meu foco é transformar dados em informações relevantes, contribuindo para a identificação de oportunidades, a compreensão de indicadores e a tomada de decisões orientadas por dados.
+📍 São Paulo – SP
 
-Busco desenvolver continuamente minhas habilidades técnicas e analíticas, explorando ferramentas que permitam coletar, tratar, analisar e visualizar dados de maneira eficiente.
+Profissional com mais de 7 anos de experiência, com atuação em logística, transportes, análise de dados, Business Intelligence e automação de processos. Experiência na criação de soluções para conciliação financeira e operacional, auditoria de fretes, monitoramento de indicadores e otimização de rotinas.
 
-🎯 Áreas de interesse
-📊 Análise exploratória de dados (EDA)
-🧹 Limpeza, tratamento e organização de bases de dados
-🗄️ Extração e manipulação de dados com SQL
-🐍 Análise e automação de tarefas com Python
-📈 Visualização de dados e desenvolvimento de dashboards
-💡 Indicadores de desempenho (KPIs) e geração de insights
+Utilizo Python, Pandas, SQL, Excel Avançado, Power Query e Power BI para transformar grandes volumes de dados em informações estratégicas, automatizar processos manuais e melhorar a eficiência operacional.
+
+Atualmente, curso Ciência de Dados e busco evoluir continuamente no desenvolvimento de soluções orientadas por dados, automação e inteligência de negócios.
+
+🚀 Principais resultados
+⚙️ 95% menos tempo na consolidação de dados: de 5 horas para 15 minutos por rotina.
+📊 50% de redução no ciclo de fechamento de fretes: de 10 para 5 dias.
+🚚 83 mil+ rotas analisadas em três operações logísticas: First Mile, Last Mile e Line Haul.
+💰 600 motoristas envolvidos nos controles financeiros e fechamentos de fretes.
+📈 700 rotas por dia no contexto operacional de monitoramento e controle logístico.
 🛠️ Tecnologias e ferramentas
 
-Linguagens e análise de dados
+Análise de Dados e Business Intelligence
 
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/ExcelAvançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Avançado"/> <img src="https://img.shields.io/badge/PowerQuery-742774?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/> </p>
 
-Bibliotecas e ambientes de análise
+Programação e Automação
 
-<p align="left"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/> <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/> </p>
 
-Bancos de dados e ferramentas de desenvolvimento
+Desenvolvimento de Dashboards e Aplicações
 
-<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
 
-📂 Projetos em destaque
+🤖 Automações e soluções desenvolvidas
+1. Pipeline de conciliação de fretes e operação
 
-Nesta seção, apresentarei projetos que demonstram minha capacidade de trabalhar com dados, desenvolver análises e comunicar resultados.
+Tecnologias: Python, Pandas, Excel, Power Query, HTML, CSS, JavaScript e Chart.js.
 
-Análise exploratória de dados: investigação de bases de dados, identificação de padrões e elaboração de insights.
-Consultas SQL: extração, filtragem, agregação e relacionamento entre dados.
-Visualização de dados: criação de gráficos e relatórios para facilitar a interpretação de resultados.
-Automação com Python: organização, tratamento e processamento de dados.
+Desenvolvimento de uma solução para integrar e analisar dados financeiros e operacionais de mais de 83 mil rotas, abrangendo First Mile, Last Mile e Line Haul.
 
-Os exemplos acima representam áreas de projetos que podem compor o portfólio. Adicione os links dos seus projetos reais à medida que forem publicados.
+Cruzamento automatizado de informações financeiras e operacionais.
+Auditoria de preços de fretes com base nas tabelas contratuais.
+Identificação de divergências entre valores cobrados e valores previstos.
+Geração automatizada de indicadores e relatórios.
+Dashboard em HTML com sete módulos de análise operacional e financeira.
+Centralização de informações sobre custos, desempenho por base, qualidade, frota e penalidades.
+2. Automação da consolidação de dados
 
+Tecnologias: Excel Avançado, Power Query e SQL.
+
+Automatização de rotinas de consolidação de dados, reduzindo o tempo de execução de 5 horas para aproximadamente 15 minutos.
+
+Tratamento e padronização de informações.
+Redução de atividades manuais e repetitivas.
+Agilidade na preparação de bases para análise.
+Melhoria da disponibilidade de informações para relatórios gerenciais.
+3. Automação de controles financeiros e fechamento de fretes
+
+Tecnologias: Excel, Power Query, SQL e sistemas operacionais internos.
+
+Estruturação e centralização dos controles financeiros relacionados aos pagamentos de aproximadamente 600 motoristas.
+
+Controle de rotas, quilometragem e valores a pagar.
+Conferência de tabelas contratuais e faixas de quilometragem.
+Auditoria de fretes e validação de despesas.
+Apoio à automatização da entrega das informações de fechamento no sistema Irisys.
+Redução de 50% no ciclo de fechamento, de 10 para 5 dias.
+4. Automação de cadastro de produtos
+
+Tecnologia: Python.
+
+Desenvolvimento de uma automação para cadastro de milhares de produtos, com possibilidade de execução diária ou sob demanda.
+
+Automatização de tarefas repetitivas.
+Padronização do processo de cadastro.
+Redução da necessidade de intervenção manual.
+📊 Projetos de Dados
+Análise de churn
+
+Tecnologias: Python, Pandas e Plotly.
+
+Análise de uma base de clientes para investigar padrões e identificar fatores associados ao cancelamento, apoiando a compreensão do comportamento dos clientes.
+
+Previsão de score de crédito
+
+Tecnologia: Python e Scikit-learn.
+
+Desenvolvimento de um modelo de classificação para previsão de score de crédito, alcançando 86% de acurácia no conjunto de teste.
+
+Dashboard de controle operacional
+
+Tecnologia: Power BI.
+
+Desenvolvimento de painel para acompanhamento de colaboradores, escalas, posições e horários, contribuindo para a visualização das informações operacionais em tempo real.
+
+📦 Conhecimentos em Logística e Transportes
+Monitoramento e controle de rotas em tempo real.
+Gestão de indicadores de entrega, SLA e ocorrências.
+Auditoria e fechamento de fretes.
+Conciliação entre dados financeiros e operacionais.
+Análise de quilometragem, custos e desempenho por base.
+Conhecimento de processos envolvendo CT-e, MDF-e, TMS, WMS, ERP e sistemas de operação logística.
+Identificação de oportunidades de melhoria e automação de processos.
+🎓 Formação e desenvolvimento profissional
+Ciência de Dados — Universidade Cruzeiro do Sul (em andamento; conclusão prevista para 2027).
+Excel Avançado e Power Query — Expert Cursos (2025).
+Power BI Avançado — Expert Cursos (2025).
+SQL do Básico ao Avançado — em andamento.
+Estudos e aplicações em Python para análise de dados, VBA para Excel e Power Apps.
 📊 Estatísticas do GitHub
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br" alt="Estatísticas do GitHub"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&langscount=8&locale=pt-br" alt="Linguagens mais utilizadas"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br" alt="Estatísticas do GitHub"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&langscount=8" alt="Linguagens mais utilizadas"/> </div>
 
 📫 Contato
 
-<p align="left"> <a href="https://github.com/SEU-USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <!-- Adicione seu LinkedIn ou e-mail profissional, se desejar --> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/icaro-de-sousa-016374165/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:icaro31124@outlook.com"> <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/> </a> </p>
 
-💼 Objetivo profissional
+📍 São Paulo – SP
+📞 (11) 94593-2566
+💼 Disponibilidade para trabalho presencial e turnos.
 
-Aprimorar minhas competências em análise de dados e desenvolver soluções que transformem informações em conhecimento, contribuindo para a melhoria de processos e para decisões mais eficientes e estratégicas.
-
-<div align="center"> <i>"Transformar dados em conhecimento é transformar informação em oportunidade."</i> </div>
+<div align="center"> <i>Transformando dados em decisões, automações em eficiência e processos logísticos em resultados.</i> </div>
