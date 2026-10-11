@@ -1,58 +1,52 @@
 👨🏻‍💻 Ícaro de Sousa
+📊 Analista de Dados | Data Analyst
 
-Analista de Dados | Data Analyst
+Olá! Sou Ícaro de Sousa, tenho 26 anos e sou interessado em tecnologia, análise de dados e inteligência de negócios. Meu foco é transformar dados em informações relevantes, contribuindo para a identificação de oportunidades, a compreensão de indicadores e a tomada de decisões orientadas por dados.
 
-Me chamo Ícaro de Sousa, tenho 26 anos e sou apaixonado por tecnologia, análise de dados e resolução de problemas. Tenho interesse em transformar dados em informações estratégicas por meio de análises, visualizações e indicadores de desempenho. Busco aprimorar continuamente meus conhecimentos em ferramentas e tecnologias de dados, desenvolvendo soluções que contribuam para uma tomada de decisão mais eficiente e fundamentada em informações.
+Busco desenvolver continuamente minhas habilidades técnicas e analíticas, explorando ferramentas que permitam coletar, tratar, analisar e visualizar dados de maneira eficiente.
 
-📊 Análise e interpretação de dados
-📈 Visualização de dados e criação de relatórios
-🗄️ Consultas e manipulação de dados com SQL
-🐍 Análise de dados com Python
-🎯 Foco em indicadores, insights e tomada de decisões
+🎯 Áreas de interesse
+📊 Análise exploratória de dados (EDA)
+🧹 Limpeza, tratamento e organização de bases de dados
+🗄️ Extração e manipulação de dados com SQL
+🐍 Análise e automação de tarefas com Python
+📈 Visualização de dados e desenvolvimento de dashboards
+💡 Indicadores de desempenho (KPIs) e geração de insights
+🛠️ Tecnologias e ferramentas
 
-🌐 Conecte-se comigo
+Linguagens e análise de dados
 
-<p align="left"> <a href="https://github.com/SEU-USUARIO?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" /> </a> <a href="https://github.com/SEU-USUARIO?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> </p>
 
-📊 Linguagens e Tecnologias
-Análise e visualização de dados
+Bibliotecas e ambientes de análise
 
-<p align="left"> <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> <img alt="NumPy" title="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> <img alt="Jupyter" title="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/> </p>
 
-Bancos de dados e consultas
+Bancos de dados e ferramentas de desenvolvimento
 
-<p align="left"> <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
 
-Ferramentas
+📂 Projetos em destaque
 
-<p align="left"> <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> <img alt="VS Code" title="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> </p>
+Nesta seção, apresentarei projetos que demonstram minha capacidade de trabalhar com dados, desenvolver análises e comunicar resultados.
 
-📈 Principais competências
-Análise exploratória de dados (EDA).
-Limpeza, tratamento e organização de dados.
-Consultas e extração de informações com SQL.
-Análise de indicadores de desempenho (KPIs).
-Visualização de dados e criação de relatórios.
-Identificação de padrões e tendências.
-📂 Projetos
+Análise exploratória de dados: investigação de bases de dados, identificação de padrões e elaboração de insights.
+Consultas SQL: extração, filtragem, agregação e relacionamento entre dados.
+Visualização de dados: criação de gráficos e relatórios para facilitar a interpretação de resultados.
+Automação com Python: organização, tratamento e processamento de dados.
 
-Aqui apresentarei projetos voltados à análise de dados, visualização de informações e resolução de problemas por meio de dados.
-
-📊 Análise de Dados: exploração de bases de dados para identificar padrões e gerar insights.
-📈 Dashboards: visualização de indicadores e acompanhamento de resultados.
-🗄️ SQL: consultas, filtros, relacionamentos e agregações de dados.
-🐍 Python para Dados: tratamento, análise e visualização de dados.
-
-Adicione os links dos seus repositórios a cada projeto conforme eles forem publicados.
+Os exemplos acima representam áreas de projetos que podem compor o portfólio. Adicione os links dos seus projetos reais à medida que forem publicados.
 
 📊 Estatísticas do GitHub
 
-<p> <img align="left" alt="Estatísticas do GitHub" height="200" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br" /> <img align="left" alt="Linguagens mais utilizadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&customtitle=Tecnologias&langs_count=9" /> </p>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br" alt="Estatísticas do GitHub"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&langscount=8&locale=pt-br" alt="Linguagens mais utilizadas"/> </div>
 
-<br clear="both"/>
+📫 Contato
 
-🎯 Objetivo profissional
+<p align="left"> <a href="https://github.com/SEU-USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <!-- Adicione seu LinkedIn ou e-mail profissional, se desejar --> </p>
 
-Desenvolver soluções orientadas por dados, aprimorar minhas habilidades analíticas e contribuir para que as organizações tomem decisões mais estratégicas, eficientes e fundamentadas em informações.
+💼 Objetivo profissional
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de análise de dados.
+Aprimorar minhas competências em análise de dados e desenvolver soluções que transformem informações em conhecimento, contribuindo para a melhoria de processos e para decisões mais eficientes e estratégicas.
+
+<div align="center"> <i>"Transformar dados em conhecimento é transformar informação em oportunidade."</i> </div>
